@@ -1,0 +1,9 @@
+.code
+.idea
+.DS_Store
+scratch
+*.log
+*.json
+csp-report-collector.*
+!csp-report-collector.example.json
+!csp-report-collector.go
